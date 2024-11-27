@@ -4,22 +4,22 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "MultiLineString",
+        "type": "Polygon",
         "coordinates": [[[126.8514,37.0711],[126.8514,37.0711],[126.8502,37.0706],[126.8498,37.0705],[126.8496,37.0703],[126.8495,37.0703]]]
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "MultiLineString",
+        "type": "Polygon",
         "coordinates": [[[127.0388,37.2764],[127.0387,37.2765],[127.0379,37.2767],[127.0378,37.2767]]]
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "MultiLineString",
-        "coordinates": [[[126.9422,37.0385],[126.9423,37.0384],[126.9459,37.0386],[126.946,37.0386]]]
+        "type": "Point",
+        "coordinates": [126.9422,37.0385]
       }
     },
     {
